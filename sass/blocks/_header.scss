@@ -1,0 +1,87 @@
+header{
+    height: 700px;
+    background: #EEEFF1;
+}
+.logo{
+width: 95px;
+}
+.header__top{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 267px;
+}
+
+.header__bot{
+    display: flex;
+    justify-content: center;
+}
+
+.menu{
+    padding-left: 402px;
+    display: flex;
+    list-style-type: none;
+
+}
+
+.menu__item{
+    padding-left: 42px;
+}
+
+.menu__link{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #34547A;
+    text-decoration: none;
+}
+
+.menu__link:hover{
+    text-decoration: underline;
+}
+
+.header__text{
+    padding-left: 131px;
+}
+.header__h1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+
+}
+
+.header__p{
+    padding-top: 60px;
+    display: block;
+    width: 540px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    padding-bottom: 60px;
+}
+
+.button{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    text-decoration: none;
+    text-align: center;
+    letter-spacing: 0.1em;
+    color: #FFFFFF;
+    width: 225px;
+    height: 65px;
+    background: #34547A;
+}
+.button:hover{
+    text-decoration: underline;
+}

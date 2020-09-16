@@ -1,0 +1,36 @@
+.skills{
+    height: 653px;
+    background: #F9F9F9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.skills__list{
+    min-width: 375px;
+    max-width: 445px;
+}
+.skills_ul{
+    list-style-type: none;
+}
+.skills__underline{
+    margin-top: 20px;
+    width: 445px;
+    height: 4px;
+    background: #C4C4C4;
+}
+.underline{
+    width: 349.36px;
+    height: 4px;
+    background: #34547A;
+}
+.skills__item{
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+.my-photo{
+    padding-left: 150px;
+}
